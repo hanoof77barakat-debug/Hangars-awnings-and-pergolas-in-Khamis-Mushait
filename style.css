@@ -22,7 +22,7 @@
     .container{max-width:100%;margin:0 auto;padding:0 18px; width: 100%; overflow: visible}
     nav{display:flex;align-items:center;justify-content:space-between;padding:10px 0}
     .brand{display:flex;align-items:center;gap:12px}
-    .brand .logo{width:80px;height:52px;border-radius:12px;background:linear-gradient(135deg,var(--accent),#2bb5d6);display:flex;align-items:center;justify-content:center;color:white;font-weight:700}
+    .brand .logo{width:80px;height:52px;border-radius:12px;background:linear-gradient(135deg,var(--accent),);display:flex;align-items:center;justify-content:center;color:white;font-weight:700}
     .brand h1{font-size:1.05rem;margin:0}
 
     .menu{display:flex;gap:6px;align-items:center}
@@ -53,7 +53,7 @@
     .contact .phone{font-size:1.15rem;font-weight:700}
     .hours{font-size:0.95rem;color:var(--muted)}
 
-    
+    .logo
     /* video */
     /* .video-wrap{margin-top:14px;border-radius:12px;overflow:hidden}
     .video-wrap iframe{width:100%;height:220px;border:0} */
@@ -382,7 +382,7 @@
     }
 }
 .social-icons {
-    margin-top: 10px;
+    margin-top: 30px;
     display: flex;
     justify-content: center;
     gap: 15px;
@@ -442,19 +442,4 @@
 .whatsapp-btn:hover,
 .call-btn:hover {
     transform: scale(1.1);
-}
-.map-section {
-    margin-top: 30px;
-    padding: 15px;
-}
-
-.map-section iframe {
-    border-radius: 15px;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.15);
-}
-
-.map-section h2 {
-    text-align: center;
-    margin-bottom: 12px;
-    color: var(--accent);
 }

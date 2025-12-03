@@ -150,7 +150,7 @@ document.addEventListener("keydown", function(e) {
     }
 });
 
-// منع سحب الصور
+// // منع سحب الصور
 document.querySelectorAll("img").forEach(img => {
     img.setAttribute("draggable", "false");
 });
