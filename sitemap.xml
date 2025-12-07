@@ -65,5 +65,8 @@
     <loc>https://hangars-awnings-and-pergolas-in-kha.vercel.app/rail.html</loc>
     <priority>0.8</priority>
   </url>
-
+  <url>
+    <loc>https://hangars-awnings-and-pergolas-in-kha.vercel.app/index.html</loc>
+    <priority>0.8</priority>
+  </url> 
 </urlset>
