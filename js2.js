@@ -118,7 +118,7 @@ window.addEventListener("load", () => {
     welcomeBox.innerHTML = `
         <div class="welcome-overlay">
             <div class="welcome-card">
-                <h2>مرحباً بك في مؤسسة بدرية</h2>
+                <h2>مرحباً بك </h2>
                 <p>سعداء بزيارتك ونتمنى لك تجربة ممتعة.</p>
                 <button id="closeWelcome">متابعة</button>
             </div>
