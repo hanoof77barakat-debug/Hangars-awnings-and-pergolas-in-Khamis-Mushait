@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hangars-awnings-and-pergolas-in-kha.vercel.app/sitemap.xml
